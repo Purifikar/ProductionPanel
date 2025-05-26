@@ -17,7 +17,6 @@ header {
   color: #fff;
   padding: 12px 24px;
   display: flex;
-  align-items: center;
   justify-content: space-between;
 }
 
@@ -70,7 +69,6 @@ h1 {
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 24px;
   padding: 0 24px 40px;
-  align-items: center;
 }
 
 .kanban-column {
@@ -81,7 +79,6 @@ h1 {
   padding: 10px;
   overflow-y: auto;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  align-items: center;
 }
 
 .kanban-column h2 {
